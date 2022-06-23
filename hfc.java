@@ -21,4 +21,5 @@ public class hfc{
        }
        System.out.println(hfc);
     }
+    // highest frequency character 
 }
